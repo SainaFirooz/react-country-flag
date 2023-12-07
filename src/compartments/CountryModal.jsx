@@ -11,7 +11,7 @@ const CountryModal = ({ country, onClose }) => (
       alt={`${country.name.common}'s flag`}
       className="flag-image"
     />
-    <h2>{country.name.common}</h2>
+    <h1>{country.name.common}</h1>
     <p><strong>Capital:</strong> {country.capital}</p>
     <p><strong>Population:</strong> {country.population} </p>
   </div>
