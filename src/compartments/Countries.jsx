@@ -1,6 +1,6 @@
 
 const Countries = ({ countries, onFlagClick }) => {
-  // Implement your countries component here
+ 
   return (
     <div className="flag-container">
       {countries.map((country) => (
