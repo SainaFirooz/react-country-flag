@@ -64,18 +64,6 @@ body {
   .flag-image:hover {
     transform: scale(1.1);
   }
-/*   
-  .country-info {
-    margin-top: 20px;
-    padding: 10px;
-    border: 1px solid #ccc;
-    border-radius: 5px;
-    width: 300px;
-    margin: auto;
-  }
-   */
-
- 
 
 
 ::-webkit-scrollbar {

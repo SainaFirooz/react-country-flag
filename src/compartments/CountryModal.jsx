@@ -2,7 +2,7 @@
 import './styles/CountryModal.css'; 
 
 const CountryModal = ({ country, onClose }) => (
-  <div className="country-card">
+  <div className="country-modal">
     <button className="close-button" onClick={onClose}>
       Close
     </button>
