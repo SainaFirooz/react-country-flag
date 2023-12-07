@@ -13,7 +13,7 @@ const CountryModal = ({ country, onClose }) => (
     />
     <h1>{country.name.common}</h1>
     <p><strong>Capital:</strong> {country.capital}</p>
-    <p><strong>Population:</strong> {country.population} </p>
+    <p><strong>Population:</strong> {country.population} humans</p>
   </div>
 );
 

@@ -44,7 +44,7 @@ const App = () => {
       />
 
       <button className="btn" onClick={fetchCountries}>
-        Fetch countries from {selectedContinent}
+        Fetch Countries
       </button>
 
       <Countries countries={countries} onFlagClick={flagClick} />
